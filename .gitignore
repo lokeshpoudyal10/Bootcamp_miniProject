@@ -1,0 +1,13 @@
+__pycache__/
+files/
+csv/
+*.jpeg
+*.jpg
+*.png
+*.json
+*.csv
+*.env
+os
+*.py
+*.docx
+*.log
